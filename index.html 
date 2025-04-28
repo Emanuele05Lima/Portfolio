@@ -12,9 +12,8 @@
     <p>Eu sou Emanuele_</p>
     <h1>Eu estou aprendendo Programação</h1>
     <p>
-      Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional
-      para estudantes do Ensino Fundamental e Médio. Ensino sobre pensamento
-      computacional usando HTML, CSS e JavaScript.
+      Sou Jovem Aprendiz em uma empresa, estudo meio período, gosto de ouvir músicas, ir a igreja,
+      pretendo fazer faculdade de Administração.
     </p>
     <p>Minhas habilidades</p>
     <div>
@@ -22,6 +21,8 @@
         <p>CSS</p>
         <p>JavaScript</p>
         <p>Scratch</p>
+        <p>Comunicação</p>
+        <p>Organização</p>
       </div>
 </body>
 </html>
